@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 
@@ -26,7 +25,7 @@
                 </a>
                 <p class="text-center">Your Social Campaigns</p>
                 <form action="{{ route('login') }}" method="POST">
-									@csrf
+                  @csrf
                   <div class="mb-3">
                     <label for="email" class="form-label">Email</label>
                     <input type="email" name="email" class="form-control" id="email">

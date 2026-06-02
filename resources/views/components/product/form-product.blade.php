@@ -107,7 +107,6 @@
         </div>
       </div>
 
-
       {{-- tabel variant --}}
       <table class="table table-bordered mt-3">
         <thead>
