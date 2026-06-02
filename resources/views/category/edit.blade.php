@@ -1,6 +1,7 @@
 @extends('layouts.admin')
 
 @section('content')
+  <!--  Card Wrapper -->
   <div class="card">
     <div class="card-header d-flex align-items-center justify-content-between">
       <h4 class="card-title">Form Edit Category</h4>
